@@ -1,14 +1,16 @@
-strings/Strings.java
- strings.Strings
 strings/StringBuilder.java
  strings.StringBuilder
-strings/StringFormat.java
- strings.StringFormat
-strings/Exercise.java
- strings.Exercise
-ifs/IF.java
- ifs.IF
-operators/Equality.java
- operators.Equality
 operators/Increment.java
  operators.Increment
+strings/Strings.java
+ strings.Strings
+ifs/IF.java
+ ifs.IF
+strings/Exercise.java
+ strings.Exercise
+operators/Equality.java
+ operators.Equality
+strings/StringFormat.java
+ strings.StringFormat
+operators/Logic.java
+ operators.Logic
