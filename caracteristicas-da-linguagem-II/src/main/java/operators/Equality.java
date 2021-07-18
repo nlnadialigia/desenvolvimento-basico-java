@@ -1,6 +1,6 @@
 package operators;
 
-public class Igualdade {
+public class Equality {
     public static void main(String[] args) {
         final var number = 11;
 
