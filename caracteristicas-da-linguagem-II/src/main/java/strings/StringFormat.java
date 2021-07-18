@@ -1,3 +1,5 @@
+package strings;
+
 public class StringFormat {
     public static void main(String[] args) {
         var name = "Nadia";
