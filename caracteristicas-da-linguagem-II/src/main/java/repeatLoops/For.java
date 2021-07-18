@@ -1,4 +1,4 @@
-package fors;
+package repeatLoops;
 
 public class For {
     public static void main(String[] args) {
