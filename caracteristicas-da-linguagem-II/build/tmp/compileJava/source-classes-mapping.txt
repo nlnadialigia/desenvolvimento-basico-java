@@ -16,3 +16,5 @@ operators/Logic.java
  operators.Logic
 operators/Math.java
  operators.Math
+operators/Relational.java
+ operators.Relational
