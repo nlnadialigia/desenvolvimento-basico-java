@@ -8,3 +8,5 @@ strings/Exercise.java
  strings.Exercise
 ifs/IF.java
  ifs.IF
+operators/Igualdade.java
+ operators.Igualdade
