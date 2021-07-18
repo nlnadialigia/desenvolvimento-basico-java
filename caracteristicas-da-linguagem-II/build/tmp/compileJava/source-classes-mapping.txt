@@ -1,8 +1,10 @@
 strings/Strings.java
  strings.Strings
-StringFormat.java
- StringFormat
-StringBuilder.java
- StringBuilder
-Exercise.java
- Exercise
+strings/StringBuilder.java
+ strings.StringBuilder
+strings/StringFormat.java
+ strings.StringFormat
+strings/Exercise.java
+ strings.Exercise
+ifs/IF.java
+ ifs.IF
