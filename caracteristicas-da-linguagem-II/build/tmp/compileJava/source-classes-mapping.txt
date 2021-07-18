@@ -14,3 +14,5 @@ strings/StringFormat.java
  strings.StringFormat
 operators/Logic.java
  operators.Logic
+operators/Math.java
+ operators.Math
