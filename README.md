@@ -15,6 +15,7 @@
 # Índice
 
 - [Características da linguagem](./caracteristicas-da-linguagem)
+- [Características da linguagem II](./caracteristicas-da-linguagem-II)
 
 <br>
 
