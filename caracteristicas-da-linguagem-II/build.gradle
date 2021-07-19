@@ -1,5 +1,7 @@
 plugins {
     id 'java'
+    id 'checkstyle'
+    id 'pmd'
 }
 
 group 'com.nlnadialigia'
@@ -16,4 +18,17 @@ dependencies {
 
 test {
     useJUnitPlatform()
+}
+
+checkstyle {
+    toolVersion = '8.44'
+    showViolations = true
+    configFile = file("config/checkstyle/checkstyle.xml")
+}
+
+pmd {
+    consoleOutput = true
+    ignoreFailures = true
+    toolVersion = "6.36.0"
+    ruleSetFiles = files("config/pmd/ruleset.xml")
 }

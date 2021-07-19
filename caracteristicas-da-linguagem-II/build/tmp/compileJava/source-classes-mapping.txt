@@ -16,9 +16,9 @@ operators/Equality.java
  operators.Equality
 strings/StringFormat.java
  strings.StringFormat
-operators/Increment.java
- operators.Increment
-operators/Relational.java
- operators.Relational
 repeatLoops/While.java
  repeatLoops.While
+operators/Relational.java
+ operators.Relational
+operators/Increment.java
+ operators.Increment
