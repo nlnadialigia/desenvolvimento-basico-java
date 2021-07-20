@@ -1,4 +1,4 @@
-package aulas.exercício001;
+package paradigmaOo.exercício001;
 
 public class CarMethod {
   public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package aulas.exemplo001;
+package paradigmaOo.exemplo001;
 
 public class Method {
   public static void main(String[] args) {

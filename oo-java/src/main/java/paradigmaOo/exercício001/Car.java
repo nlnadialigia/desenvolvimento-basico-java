@@ -1,4 +1,4 @@
-package aulas.exercício001;
+package paradigmaOo.exercício001;
 
 public class Car {
 

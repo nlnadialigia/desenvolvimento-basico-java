@@ -1,4 +1,4 @@
-package aulas.exemplo001;
+package paradigmaOo.exemplo001;
 
 public class Person {
   final private String name = "Nadia Ligia";

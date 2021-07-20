@@ -1,18 +1,23 @@
 package strings;
 
+
 import java.util.Arrays;
 
 public class Exercise {
-    public static void main(String[] args) {
-        var letters = "A B C D E F G";
-        var phrase = "Aula de Java";
-        var word = "Aula";
-        var phrase2 = "1234 asda qw";
+  public static void main(String[] args) {
 
-        System.out.println(letters.toCharArray());
-        System.out.println(Arrays.toString(phrase.split((" "))));
-        System.out.println(word.concat(" de Java"));
-        System.out.println(phrase2.replaceAll("[0-9]", "#"));
+    var frase = "Aula de Java";
+    var arrayFrase = frase.split(" ");
 
-    }
+    var curso = "Desenvolvimento-básico-de-Java";
+    var arrayCurso = curso.split("-");
+
+    var palavra = "EXEMPLO";
+    var palavraToCharArray = palavra.toCharArray();
+    var parteDaPalavra = palavra.toCharArray()[2];
+    System.out.println("FIM");
+//    System.out.println(palavra[2]);
+
+
+  }
 }
