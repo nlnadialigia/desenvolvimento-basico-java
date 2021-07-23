@@ -2,6 +2,13 @@ package javaDate;
 
 import java.util.Date;
 
+/*
+    - Descubra o timeInMillis do dia que você nasceu;
+    - Converta em um objeto Date;
+    - Verifique se ele é anterior ou posterior a 15 de maio
+        de 2010.
+*/
+
 public class Exercicio001 {
     public static void main(String[] args) {
 
