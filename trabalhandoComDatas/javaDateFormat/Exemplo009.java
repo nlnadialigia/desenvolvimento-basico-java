@@ -16,6 +16,5 @@ public class Exemplo009 {
 
         System.out.println(dataFormatada);
         // 14/07/2019
-
     }
 }

@@ -26,6 +26,5 @@ public class Exemplo003 {
 
         System.out.println(isBefore);
         //true
-
     }
 }

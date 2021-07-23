@@ -22,6 +22,5 @@ public class Exemplo008 {
         dateToStr = DateFormat.getDateTimeInstance(DateFormat.LONG,DateFormat.LONG).format(agora);
         System.out.println(dateToStr);
         // 15 de Julho de 2019 22h13min55s BRT
-
     }
 }

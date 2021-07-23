@@ -11,7 +11,7 @@
   <a href="mailto:nlnadialigia@gmail.com">
     <img alt="Email" src="https://img.shields.io/badge/-Email-FF7600?style=plastic&logo=Gmail&logoColor=white&link=mailto:nlnadialigia@gmail.com" />
   </a>&nbsp;
-  <img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/nlnadialigia/desenvolvimento-basico-java/oo-java?color=FF7600&style=plastic">
+  <img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/nlnadialigia/desenvolvimento-basico-java/solid?color=FF7600&style=plastic">
 </p>
 
 <br>
