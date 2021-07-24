@@ -21,6 +21,7 @@
 - [S.O.L.I.D](./solid)
 - [Trabalhando com datas](./trabalhandoComDatas)
 - [Trabalhando com arrays](./trabalhando-arrays)
+- [Tratamento de exceções](./exceptions)
 
 <br>
 
